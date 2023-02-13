@@ -1,5 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Roboto:wght@100&display=swap');
+
+/* la tipografia a utilizar es Roboto y Lobster. */
 
 
-.header{
-    background-color: rgb(196, 255, 250);
+
+
+.main{
+    background-repeat: no-repeat;
+    background-image: url(../assets/img/imagen_index.jpg);
+    background-position: center;
+    background-size: cover;
 }
