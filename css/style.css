@@ -12,6 +12,22 @@
     background-size: cover;
 }
 
+
+
+.inicio a{
+
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-position: 0 -0;
+}
+
+
+.video{
+
+    
+}
+
 .footer{
 
     display: flex;
